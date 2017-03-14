@@ -1,0 +1,6 @@
+Variables:  containers that store information. The keyword is var.
+Strings: pieces of text that can be stored in variables.
+Functions (arguments, return): blocks of code that take action when the user calls/invokes them. Code that does something.
+if statements: Conditions that, when true, execute code.
+Boolean values (true, false): when a condition is true, you get the Boolean value of true, and when a condition is false, 
+you get the value of false. Simple way to tell if input/code is true or false.
